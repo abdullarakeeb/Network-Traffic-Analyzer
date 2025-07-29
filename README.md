@@ -17,8 +17,28 @@ A real-time network monitoring tool built with **Python**, **Scapy**, and **Tkin
 
 ---
 
+📚 Skills Demonstrated
 
+Network Packet Analysis (Scapy)
+
+Python GUI Design (Tkinter)
+
+Data Visualization (Matplotlib)
+
+Intrusion Detection Concepts
+
+Multithreading in Python
+
+---
 ## 🚀 How to Run
+
+🧰 Requirements
+Python 3.7+
+
+Npcap (Windows) for packet sniffing: https://npcap.com/#download
+
+Run with admin/root permissions for full packet access
+
 
 ### 📦 Install dependencies:
 
