@@ -1,0 +1,9 @@
+🧠 Future Improvements
+
+1. 🌍 Add GeoIP tracking for external IPs
+
+2. 📁 Export logs to CSV
+
+3. 🎛️ Add user-defined filters (by port, protocol, etc.)
+
+4. 📊 Live traffic trend graph (per-second packet count)
